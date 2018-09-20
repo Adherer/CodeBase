@@ -1,6 +1,6 @@
 # CodeBase
-Deep Learning &amp; Machine Learning code base
+Deep Learning &amp; Machine Learning Code Base
 
-### Author
-chenbin zhang  
-jian liu
+## Author
+Chenbin Zhang  
+Jian Liu
